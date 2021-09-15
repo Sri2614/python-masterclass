@@ -1,0 +1,15 @@
+variables
+if
+for
+while
+logicalopr
+sets
+dictionary
+tuple
+list
+2dlist
+nested loop
+scope
+functions
+args
+kwargs
